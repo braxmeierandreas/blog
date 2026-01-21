@@ -1,0 +1,43 @@
+baseurl = "https://braxmeierandreas.github.io/BLOG/"
+languageCode = "de-de"
+title = "Andreas Braxmeier"
+theme = "terminal"
+[pagination]
+  pagerSize = 5
+
+[params]
+  contentTypeName = "posts"
+  showMenuItems = 2
+  showLanguageSelector = false
+  fullWidthTheme = false
+  centerTheme = false
+  autoCover = true
+  showLastUpdated = true
+
+[languages]
+  [languages.de]
+    languageName = "Deutsch"
+    title = "Andreas Braxmeier"
+    [languages.de.params]
+      subtitle = "Master-Student | Tech-Enthusiast | Furtwangen"
+      menuMore = "Mehr anzeigen"
+      readMore = "Weiterlesen"
+      readOtherPosts = "Andere Beiträge"
+      newerPosts = "Neuere Beiträge"
+      olderPosts = "Ältere Beiträge"
+      missingContentMessage = "Seite nicht gefunden..."
+      missingBackButtonLabel = "Zurück zur Startseite"
+      minuteReadingTime = "Min. Lesezeit"
+      words = "Wörter"
+      [languages.de.params.logo]
+        logoText = "Andreas.Braxmeier >_"
+        logoHomeLink = "/"
+      [languages.de.menu]
+        [[languages.de.menu.main]]
+          identifier = "about"
+          name = "Über mich"
+          url = "/about"
+        [[languages.de.menu.main]]
+          identifier = "blog"
+          name = "Blog"
+          url = "/posts"
