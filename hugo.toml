@@ -1,27 +1,20 @@
-baseurl = "https://braxmeierandreas.github.io/BLOG/"
-languageCode = "de-de"
-title = "Andreas Braxmeier"
-theme = "Niello"
+baseURL = 'https://braxmeierandreas.github.io/BLOG/'
+languageCode = 'de-de'
+title = 'Andreas Braxmeier'
+theme = 'docura'
 paginate = 10
 
 [params]
-  author = "Andreas Braxmeier"
   description = "Master-Student | Tech-Enthusiast | Furtwangen"
+  author = "Andreas Braxmeier"
   
-  # Theme Settings
-  defaultTheme = "auto" # or "dark" or "light"
-  
-  # Header
-  [params.header]
-    logo = "Andreas Braxmeier"
-    
-  # Footer
-  [params.footer]
-    copyright = "© 2026 Andreas Braxmeier"
+  # Docura specific settings
+  [params.ui]
+    theme = "auto" # light, dark, auto
 
 [menu]
   [[menu.main]]
-    name = "Startseite"
+    name = "Home"
     url = "/"
     weight = 1
   [[menu.main]]
@@ -32,7 +25,3 @@ paginate = 10
     name = "Über mich"
     url = "/about"
     weight = 3
-    
-[markup]
-  [markup.highlight]
-    # style = "github-dark"
