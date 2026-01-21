@@ -13,7 +13,7 @@ theme = 'docura'
   
   # Docura specific settings
   [params.ui]
-    theme = "auto" # light, dark, auto
+    theme = "" # light, dark, auto
 
 [menu]
   [[menu.main]]

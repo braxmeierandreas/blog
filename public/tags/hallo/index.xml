@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hallo on Andreas Braxmeier</title>
-    <link>http://localhost:1313/BLOG/tags/hallo/</link>
+    <link>https://braxmeierandreas.github.io/BLOG/tags/hallo/</link>
     <description>Recent content in Hallo on Andreas Braxmeier</description>
     <generator>Hugo</generator>
     <language>de-de</language>
     <lastBuildDate>Wed, 21 Jan 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/BLOG/tags/hallo/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://braxmeierandreas.github.io/BLOG/tags/hallo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hallo Welt - Test</title>
-      <link>http://localhost:1313/BLOG/posts/hallo-welt-test/</link>
+      <link>https://braxmeierandreas.github.io/BLOG/posts/hallo-welt-test/</link>
       <pubDate>Wed, 21 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/BLOG/posts/hallo-welt-test/</guid>
+      <guid>https://braxmeierandreas.github.io/BLOG/posts/hallo-welt-test/</guid>
       <description>&lt;p&gt;Hallo Welt!&lt;/p&gt;&#xA;&lt;p&gt;Dies ist ein weiterer Test, um zu sehen, ob die automatische Veröffentlichung über das Skript funktioniert. Wenn du das hier lesen kannst, ist alles perfekt eingerichtet!&lt;/p&gt;</description>
     </item>
   </channel>

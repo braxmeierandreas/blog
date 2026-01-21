@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Setup on Andreas Braxmeier</title>
-    <link>http://localhost:1313/BLOG/tags/setup/</link>
+    <link>https://braxmeierandreas.github.io/BLOG/tags/setup/</link>
     <description>Recent content in Setup on Andreas Braxmeier</description>
     <generator>Hugo</generator>
     <language>de-de</language>
     <lastBuildDate>Wed, 21 Jan 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/BLOG/tags/setup/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://braxmeierandreas.github.io/BLOG/tags/setup/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Willkommen auf meinem neuen Blog</title>
-      <link>http://localhost:1313/BLOG/posts/welcome/</link>
+      <link>https://braxmeierandreas.github.io/BLOG/posts/welcome/</link>
       <pubDate>Wed, 21 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/BLOG/posts/welcome/</guid>
+      <guid>https://braxmeierandreas.github.io/BLOG/posts/welcome/</guid>
       <description>&lt;p&gt;Hallo Welt!&lt;/p&gt;&#xA;&lt;p&gt;Dies ist der erste Post auf meinem neuen Blog, der komplett über &lt;strong&gt;Obsidian&lt;/strong&gt; verwaltet wird.&lt;/p&gt;&#xA;&lt;h2 id=&#34;wie-es-funktioniert&#34;&gt;Wie es funktioniert&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Ich schreibe in Obsidian.&lt;/li&gt;&#xA;&lt;li&gt;Ein Skript synchronisiert den Text.&lt;/li&gt;&#xA;&lt;li&gt;Hugo baut die Seite.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Ziemlich cool, oder?&lt;/p&gt;</description>
     </item>
   </channel>

@@ -2,35 +2,35 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/BLOG/</loc>
+    <loc>https://braxmeierandreas.github.io/BLOG/</loc>
     <lastmod>2026-01-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/BLOG/tags/hallo/</loc>
+    <loc>https://braxmeierandreas.github.io/BLOG/tags/hallo/</loc>
     <lastmod>2026-01-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/BLOG/posts/hallo-welt-test/</loc>
+    <loc>https://braxmeierandreas.github.io/BLOG/posts/hallo-welt-test/</loc>
     <lastmod>2026-01-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/BLOG/posts/</loc>
+    <loc>https://braxmeierandreas.github.io/BLOG/posts/</loc>
     <lastmod>2026-01-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/BLOG/tags/setup/</loc>
+    <loc>https://braxmeierandreas.github.io/BLOG/tags/setup/</loc>
     <lastmod>2026-01-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/BLOG/tags/</loc>
+    <loc>https://braxmeierandreas.github.io/BLOG/tags/</loc>
     <lastmod>2026-01-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/BLOG/tags/test/</loc>
+    <loc>https://braxmeierandreas.github.io/BLOG/tags/test/</loc>
     <lastmod>2026-01-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/BLOG/tags/welcome/</loc>
+    <loc>https://braxmeierandreas.github.io/BLOG/tags/welcome/</loc>
     <lastmod>2026-01-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/BLOG/posts/welcome/</loc>
+    <loc>https://braxmeierandreas.github.io/BLOG/posts/welcome/</loc>
     <lastmod>2026-01-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/BLOG/posts/unbenannt/</loc>
+    <loc>https://braxmeierandreas.github.io/BLOG/posts/unbenannt/</loc>
   </url><url>
-    <loc>http://localhost:1313/BLOG/categories/</loc>
+    <loc>https://braxmeierandreas.github.io/BLOG/categories/</loc>
   </url>
 </urlset>

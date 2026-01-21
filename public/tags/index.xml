@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Andreas Braxmeier</title>
-    <link>http://localhost:1313/BLOG/tags/</link>
+    <link>https://braxmeierandreas.github.io/BLOG/tags/</link>
     <description>Recent content in Tags on Andreas Braxmeier</description>
     <generator>Hugo</generator>
     <language>de-de</language>
     <lastBuildDate>Wed, 21 Jan 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/BLOG/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://braxmeierandreas.github.io/BLOG/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hallo</title>
-      <link>http://localhost:1313/BLOG/tags/hallo/</link>
+      <link>https://braxmeierandreas.github.io/BLOG/tags/hallo/</link>
       <pubDate>Wed, 21 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/BLOG/tags/hallo/</guid>
+      <guid>https://braxmeierandreas.github.io/BLOG/tags/hallo/</guid>
       <description></description>
     </item>
     <item>
       <title>Setup</title>
-      <link>http://localhost:1313/BLOG/tags/setup/</link>
+      <link>https://braxmeierandreas.github.io/BLOG/tags/setup/</link>
       <pubDate>Wed, 21 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/BLOG/tags/setup/</guid>
+      <guid>https://braxmeierandreas.github.io/BLOG/tags/setup/</guid>
       <description></description>
     </item>
     <item>
       <title>Test</title>
-      <link>http://localhost:1313/BLOG/tags/test/</link>
+      <link>https://braxmeierandreas.github.io/BLOG/tags/test/</link>
       <pubDate>Wed, 21 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/BLOG/tags/test/</guid>
+      <guid>https://braxmeierandreas.github.io/BLOG/tags/test/</guid>
       <description></description>
     </item>
     <item>
       <title>Welcome</title>
-      <link>http://localhost:1313/BLOG/tags/welcome/</link>
+      <link>https://braxmeierandreas.github.io/BLOG/tags/welcome/</link>
       <pubDate>Wed, 21 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/BLOG/tags/welcome/</guid>
+      <guid>https://braxmeierandreas.github.io/BLOG/tags/welcome/</guid>
       <description></description>
     </item>
   </channel>
