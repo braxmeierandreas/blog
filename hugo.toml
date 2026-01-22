@@ -17,8 +17,8 @@ theme = "PaperMod"
 
 [params.assets]
     favicon = "/favicon.ico"
-    favicon16x16 = "/favicon.ico"
-    favicon32x32 = "/favicon.ico"
+    favicon16x16 = "/favicon.png"
+    favicon32x32 = "/favicon.png"
     apple_touch_icon = "/apple-touch-icon.png"
   
   [params.homeInfoParams]
