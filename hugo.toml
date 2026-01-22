@@ -1,4 +1,4 @@
-baseURL = 'https://braxmeierandreas.github.io/BLOG/'
+baseURL = 'https://braxmeierandreas.github.io/blog/'
 languageCode = 'de-de'
 title = 'Andreas Braxmeier'
 theme = "PaperMod"
