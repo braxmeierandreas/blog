@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on Andreas Braxmeier</title>
+    <link>https://braxmeierandreas.github.io/BLOG/posts/</link>
+    <description>Recent content in Posts on Andreas Braxmeier</description>
+    <generator>Hugo -- 0.154.5</generator>
+    <language>de-de</language>
+    <lastBuildDate>Thu, 22 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://braxmeierandreas.github.io/BLOG/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Datenschutzerklärung</title>
+      <link>https://braxmeierandreas.github.io/BLOG/datenschutz/</link>
+      <pubDate>Thu, 22 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://braxmeierandreas.github.io/BLOG/datenschutz/</guid>
+      <description>Informationen zur Datenverarbeitung</description>
+    </item>
+    <item>
+      <title>Impressum</title>
+      <link>https://braxmeierandreas.github.io/BLOG/impressum/</link>
+      <pubDate>Thu, 22 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://braxmeierandreas.github.io/BLOG/impressum/</guid>
+      <description>Rechtliche Angaben</description>
+    </item>
+    <item>
+      <title>Now / Was ich gerade mache</title>
+      <link>https://braxmeierandreas.github.io/BLOG/now/</link>
+      <pubDate>Thu, 22 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://braxmeierandreas.github.io/BLOG/now/</guid>
+      <description>Meine aktuellen Fokus-Themen im Jahr 2026.</description>
+    </item>
+    <item>
+      <title>Über mich</title>
+      <link>https://braxmeierandreas.github.io/BLOG/about/</link>
+      <pubDate>Thu, 22 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://braxmeierandreas.github.io/BLOG/about/</guid>
+      <description>Andreas Braxmeier - Master Student &amp;amp; Tech Enthusiast</description>
+    </item>
+    <item>
+      <title>Uses / Mein Setup</title>
+      <link>https://braxmeierandreas.github.io/BLOG/uses/</link>
+      <pubDate>Thu, 22 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://braxmeierandreas.github.io/BLOG/uses/</guid>
+      <description>Hardware, Software und Tools, die ich täglich nutze.</description>
+    </item>
+  </channel>
+</rss>
