@@ -1,7 +1,7 @@
 baseURL = 'https://braxmeierandreas.github.io/BLOG/'
 languageCode = 'de-de'
 title = 'Andreas Braxmeier'
-theme = "hugo-PaperMod"
+theme = "PaperMod"
 [pagination]
   pagerSize = 10
 
