@@ -43,5 +43,21 @@
       <guid>https://braxmeierandreas.github.io/blog/uses/</guid>
       <description>Hardware, Software und Tools, die ich täglich nutze.</description>
     </item>
+    <item>
+      <title></title>
+      <link>https://braxmeierandreas.github.io/blog/posts/networkchuck_tutorial/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://braxmeierandreas.github.io/blog/posts/networkchuck_tutorial/</guid>
+      <description>&lt;h1 id=&#34;my-insane-blog-pipeline-networkchuck&#34;&gt;My Insane Blog Pipeline (NetworkChuck)&lt;/h1&gt;
+&lt;p&gt;2024-11-15
+#networkchuck #blog&lt;/p&gt;
+&lt;h2 id=&#34;obsidian---why-i-love-it&#34;&gt;Obsidian - Why I love it&lt;/h2&gt;
+&lt;p&gt;Obsidian is the BEST notes application in the world. Go download it: &lt;a href=&#34;https://obsidian.md/&#34;&gt;https://obsidian.md/&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;the-setup&#34;&gt;The Setup&lt;/h2&gt;
+&lt;p&gt;Create a new folder labeled posts. This is where you will add your blog posts
+….that’s all you have to do
+Actually…wait….find out where your Obsidian directories are. Right click your posts folder and choose show in system explorer
+You’ll need this directory in upcoming steps.&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>
